@@ -17,16 +17,16 @@
 
 ### Other Professional Positions
 1. Senior Cloud Developer, Amazon Web Services, 2022 - Present
-1. Master Sergeant, Space Systems, United States Air Force Reserve 2008 - Present
+1. Master Sergeant, Space Systems, United States Air Force Reserve, 2008 - Present
 1. Site Reliability Architect & Cloud Platform Engineer, Parsons Corp, 2021 - 2022
-1. Manager Software Engineering, Rise8 - 2021 - 2021
+1. Manager Software Engineering, Rise8, 2021 - 2021
 1. Lead Member of Technical Staff, MITRE Corp, 2018 - 2021
 1. Software Engineer, Polaris Alpha, 2017 - 2018
 1. Software Engineer, Millennium Engineering and Integration, 2015 - 2017
 1. Staff Technologist, Booz Allen Hamilton, 2014 - 2015
 1. Owner & Agile Applications Developer, Innovative Partner Ltd, 2010 - 2013
 1. Web Developer, Colorado New Home Concepts, 2006 - 2007
-1. Software Engineering Internship, Innerwall Inc, 2006 - 2006
+1. Software Engineering Summer Internship, Innerwall Inc, 2006 - 2006
 1. Web Developer, Freelance, 2004 - 2006
 
 ### Teaching 

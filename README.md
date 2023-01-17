@@ -31,6 +31,7 @@
 
 ### Teaching 
 1. Fall 2022: CS 3300 Software Engineering I (Classroom) @UCCS, CS 2080 Programming with UNIX (Classroom) @UCCS
+1. Summer 2022: CIT 440A - Advanced Programming II (Online) @CCU
 1. Spring 2022: CS 3300 Software Engineering I (Classroom) @UCCS
 1. Fall 2021: CS 3300 Software Engineering I (Classroom) @UCCS
 1. Spring 2021: CS 3300 Software Engineering I (Classroom) @UCCS, CIT 200A - Programming Fundamentals (Online) @CCU

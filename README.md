@@ -56,6 +56,7 @@
 1. Spring 2021: CS 3300 Software Engineering I 
 
 ### Certifications
+1. AWS Certified Solutions Architect - Associate, Amazon Web Services
 1. Youth Mental Health First Aid, National Council for Behavioral Health
 1. 3 Year Substitute Authorization, Colorado Department of Education
 1. Certified Ethical Hacker, EC-Council

@@ -9,7 +9,7 @@
 1. Associate of Applied Science, Space Operations Technology, Community College of the Air Force, 2012
 
 ### Academic Positions
-1. Academy School District 20, High School Robotics Coach, 2021 - Present
+1. Academy School District 20, District's High School Robotics Coach, 2021 - Present
 1. United States Air Force Academy, Leadership Curriculum Developer, 2019 - Present
 1. Colorado Christian University, Affiliate Faculty, 2019 - Present
 1. University of Colorado Colorado Springs, Lecturer, 2018 - Present

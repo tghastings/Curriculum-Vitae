@@ -8,12 +8,12 @@
 1. Bachelor of Science, Information Systems Management, Colorado Christian University, 2013
 1. Associate of Applied Science, Space Operations Technology, Community College of the Air Force, 2012
 
-### Academic and Research Positions
-1. Academy School District 20, Head Robotics Coach, 2021 - Present
+### Academic Positions
+1. Academy School District 20, High School Robotics Coach, 2021 - Present
 1. United States Air Force Academy, Leadership Curriculum Developer, 2019 - Present
 1. Colorado Christian University, Affiliate Faculty, 2019 - Present
 1. University of Colorado Colorado Springs, Lecturer, 2018 - Present
-1. Academy School District 20, Guest Teacher, 2020 - 2021
+1. Academy School District 20, K-12 Guest Teacher, 2020 - 2021
 
 ### Other Professional Positions
 1. Senior Cloud Developer, Amazon Web Services, 2022 - Present

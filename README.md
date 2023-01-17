@@ -61,6 +61,7 @@
 1. Certified Ethical Hacker, EC-Council
 
 ### Career Accomplishments/Awards
+1. CCU, Official Dean’s Gold Star List for Teaching Excellence, Fall 2020
 1. Air & Space Meritorious Service Medal, 2019
 1. Software Engineering Student of the Year, 2018
 1. Air & Space Commendation Medal, 2014, 2016

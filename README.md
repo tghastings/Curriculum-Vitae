@@ -30,14 +30,25 @@
 1. Web Developer, Freelance, 2004 - 2006
 
 ### Teaching 
-1. Fall 2022: CS 3300 Software Engineering I (Classroom) @UCCS, CS 2080 Programming with UNIX (Classroom) @UCCS
-1. Summer 2022: CIT 440A - Advanced Programming II (Online) @CCU
-1. Spring 2022: CS 3300 Software Engineering I (Classroom) @UCCS
-1. Fall 2021: CS 3300 Software Engineering I (Classroom) @UCCS
-1. Spring 2021: CS 3300 Software Engineering I (Classroom) @UCCS, CIT 200A - Programming Fundamentals (Online) @CCU
-1. Fall 2020: CS 3300 Software Engineering I (Hybrid) @UCCS, CIT 101A Introduction to Coding (Online) @CCU
-1. Spring 2020: CIT 200A - Programming Fundamentals I (Online) @CCU
-1. Fall 2019: CS 1150 Introduction to Computer Science (Classroom) @UCCS
+1. Fall 2022
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+    1. CS 2080 Programming with UNIX (Classroom) UCCS
+1. Summer 2022
+    1. CIT 440A - Advanced Programming II (Online), CCU
+1. Spring 2022
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+1. Fall 2021
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+1. Spring 2021
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+    1. CIT 200A - Programming Fundamentals (Online), CCU
+1. Fall 2020
+    1. CS 3300 Software Engineering I (Hybrid), UCCS
+    1. CIT 101A Introduction to Coding (Online), CCU
+1. Spring 2020 
+    1. CIT 200A - Programming Fundamentals I (Online), CCU
+1. Fall 2019
+    1. CS 1150 Introduction to Computer Science (Classroom), CCU
 
 ### Publications
 1. Thomas Hastings and Kristen R. Walcott, "Continuous Verification of Open Source Components in a World of Weak Links," 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Charlotte, NC, USA, 2022, pp. 201-207, doi: 10.1109/ISSREW55968.2022.00068.

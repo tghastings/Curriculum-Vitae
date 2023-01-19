@@ -73,7 +73,7 @@
 1. Youth Mental Health First Aid, National Council for Behavioral Health
 
 ### Career Accomplishments/Awards
-1. CCU Dean’s Gold Star List for Teaching Excellence, Fall 2020
+1. CCU Dean’s Gold Star List for Teaching Excellence, 2020
 1. High Score Holder, Area 51: Site 4, Supernova, Colorado Springs, CO, 2020
 1. Air & Space Meritorious Service Medal, 2019
 1. Software Engineering Student of the Year, 2018

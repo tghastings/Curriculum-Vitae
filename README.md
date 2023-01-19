@@ -68,9 +68,9 @@
 
 ### Certifications
 1. AWS Certified Solutions Architect - Associate, Amazon Web Services
-1. Youth Mental Health First Aid, National Council for Behavioral Health
-1. 3 Year Substitute Authorization, Colorado Department of Education
 1. Certified Ethical Hacker, EC-Council
+1. Scaled Agile DevOps Practitioner, Scaled Agile Devops Maturity Framework
+1. Youth Mental Health First Aid, National Council for Behavioral Health
 
 ### Career Accomplishments/Awards
 1. CCU Official Dean’s Gold Star List for Teaching Excellence, Fall 2020

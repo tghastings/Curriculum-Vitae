@@ -74,7 +74,7 @@
 
 ### Career Accomplishments/Awards
 1. CCU, Official Dean’s Gold Star List for Teaching Excellence, Fall 2020
-1. Area 51: Site 4- High Score Holder, Supernova, Colorado Springs, CO, 2019
+1. Area 51: Site 4- High Score Holder, Supernova, Colorado Springs, CO, 2020
 1. Air & Space Meritorious Service Medal, 2019
 1. Software Engineering Student of the Year, 2018
 1. Air & Space Commendation Medal, 2014, 2016

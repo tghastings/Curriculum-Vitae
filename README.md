@@ -14,6 +14,7 @@
 1. Colorado Christian University, Affiliate Faculty, 2019 - Present
 1. University of Colorado Colorado Springs, Lecturer, 2018 - Present
 1. Academy School District 20, K-12 Guest Teacher, 2020 - 2021
+1. National Security Institute, George Mason University, Technologist Fellowship, 2020
 
 ### Other Professional Positions
 1. Senior Cloud Developer, Amazon Web Services, 2022 - Present

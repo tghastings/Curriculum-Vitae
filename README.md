@@ -70,12 +70,10 @@
 ### Certifications
 1. AWS Certified Solutions Architect - Associate, Amazon Web Services
 1. Certified Ethical Hacker, EC-Council
-1. Scaled Agile DevOps Practitioner, Scaled Agile Devops Maturity Framework
 1. Youth Mental Health First Aid, National Council for Behavioral Health
 
 ### Career Accomplishments/Awards
 1. CCU Dean’s Gold Star List for Teaching Excellence, 2020
-1. High Score Holder, Area 51: Site 4, Supernova, Colorado Springs, CO, 2020
 1. Air & Space Meritorious Service Medal, 2019
 1. Software Engineering Student of the Year, 2018
 1. Air & Space Commendation Medal, 2014, 2016

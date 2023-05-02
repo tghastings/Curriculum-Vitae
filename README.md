@@ -35,19 +35,19 @@
     1. CS 3300 Software Engineering I (Classroom), UCCS
     1. CS 2080 Programming with UNIX (Classroom), UCCS
 1. Summer 2022
-    1. CIT 440A - Advanced Programming II (Online), CCU
+    1. CIT 440A Advanced Programming II (Online), CCU
 1. Spring 2022
     1. CS 3300 Software Engineering I (Classroom), UCCS
 1. Fall 2021
     1. CS 3300 Software Engineering I (Classroom), UCCS
 1. Spring 2021
     1. CS 3300 Software Engineering I (Classroom), UCCS
-    1. CIT 200A - Programming Fundamentals (Online), CCU
+    1. CIT 200A Programming Fundamentals (Online), CCU
 1. Fall 2020
     1. CS 3300 Software Engineering I (Hybrid), UCCS
     1. CIT 101A Introduction to Coding (Online), CCU
 1. Spring 2020 
-    1. CIT 200A - Programming Fundamentals I (Online), CCU
+    1. CIT 200A Programming Fundamentals I (Online), CCU
 1. Fall 2019
     1. CS 1150 Introduction to Computer Science (Classroom), UCCS
 
@@ -70,6 +70,7 @@
 ### Certifications
 1. AWS Certified Solutions Architect - Associate, Amazon Web Services
 1. Certified Ethical Hacker, EC-Council
+1. Scaled Agile DevOps Practitioner, Scaled Agile Devops
 1. Youth Mental Health First Aid, National Council for Behavioral Health
 
 ### Career Accomplishments/Awards

@@ -49,7 +49,7 @@
 1. Spring 2020 
     1. CIT 200A - Programming Fundamentals I (Online), CCU
 1. Fall 2019
-    1. CS 1150 Introduction to Computer Science (Classroom), CCU
+    1. CS 1150 Introduction to Computer Science (Classroom), UCCS
 
 ### Publications
 1. Thomas Hastings and Kristen R. Walcott, "Continuous Verification of Open Source Components in a World of Weak Links," 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Charlotte, NC, USA, 2022, pp. 201-207, doi: 10.1109/ISSREW55968.2022.00068.

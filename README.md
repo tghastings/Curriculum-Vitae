@@ -62,7 +62,7 @@
 1. Contributed to Chapter 6 of Fox A, Patterson D. Engineering Software As a Service. Pogo Press; 2020. ISBN-13: 978-1735233802
 
 ### Educational Open-Source Software Contributions
-1. Containerized Student Development Environment for CS 3300 Software Engineering I - https://hub.docker.com/r/tghastings/code-esaas, >7,300 downloads
+1. Containerized Student Development Environment for CS 3300 Software Engineering I - https://hub.docker.com/r/tghastings/code-esaas, >8,400 downloads
 
 ### Curriculum Development
 1. Spring 2021: CS 3300 Software Engineering I 

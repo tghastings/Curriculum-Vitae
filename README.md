@@ -31,6 +31,9 @@
 1. Web Developer, Freelance, 2004 - 2006
 
 ### Teaching 
+1. Fall 2023
+    1. CS 110 Introduction to Computing and Cyber Operations - 3 Sections (Classroom), USAFA
+    2. CS 1120 Computational Thinking with Beginning Programming (Classroom), UCCS
 1. Fall 2022
     1. CS 3300 Software Engineering I (Classroom), UCCS
     1. CS 2080 Programming with UNIX (Classroom), UCCS

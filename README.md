@@ -57,7 +57,7 @@ thomas@hastings.dev
 1. Containerized Student Development Environment for CS 3300 Software Engineering I - https://hub.docker.com/r/tghastings/code-esaas, >8,400 downloads
 
 ### Curriculum Development
-1. Spring 2021: CS 3300 Software Engineering I 
+1. CS 3300 Software Engineering I, University of Colorado Colorado Springs, Spring 2021
 
 ### Certifications
 1. AWS Certified Solutions Architect - Associate, Amazon Web Services

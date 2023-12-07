@@ -74,7 +74,7 @@
 1. AWS Certified Solutions Architect - Associate, Amazon Web Services
 1. Certified Ethical Hacker, EC-Council
 1. Security+, CompTIA
-1. Practitioner, Scaled Agile Devops
+1. Practitioner, Scaled Agile Devops Maturity Framework
 1. Youth Mental Health First Aid, National Council for Behavioral Health
 
 ### Career Accomplishments/Awards

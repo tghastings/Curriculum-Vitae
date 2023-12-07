@@ -44,7 +44,7 @@ thomas@hastings.dev
     1. CS 110 Introduction to Computing and Cyber Operations
 
 ### Publications
-1. Thomas Hastings and Kristen R. Walcott, "Continuous Verification of Open Source Components in a World of Weak Links," 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Charlotte, NC, USA, 2022, pp. 201-207, doi: 10.1109/ISSREW55968.2022.00068.
+1. Thomas Hastings and Kristen R. Walcott, "Continuous Verification of Open Source Components in a World of Weak Links," 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Charlotte, NC, USA, 2022, pp. 201-207, doi: 10.1109/ISSREW55968.2022.00068. October 2021.
 1. Thomas Hastings and Kristen R. Walcott. “User Interaction Metrics for Hybrid Mobile Applications.” In the Proceedings of the 16th Int'l Conference on Software Engineering & Research and Practice (SERP ‘18). July 2018.
 
 ### Conference Presentations 

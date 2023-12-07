@@ -1,6 +1,6 @@
 ## Mr. Thomas G. Hastings
-💻 https://www.thomashastings.com \
-✉ thomas@hastings.dev
+https://www.thomashastings.com \
+thomas@hastings.dev
 
 ### Education
 1. Doctor of Philosophy, Engineering, University of Colorado Colorado Springs, 2023 (ABD)

@@ -30,19 +30,33 @@ thomas@hastings.dev
 1. Software Engineering Summer Internship, Innerwall Inc, 2006 - 2006
 1. Web Developer, Freelance, 2004 - 2006
 
-### Classes Taught
-1. Colorado Christian University
-    1. CIT 440A Advanced Programming II
-    1. CIT 200A Programming Fundamentals
-    2. CIT 101A Introduction to Coding
-1. University of Colorado Colorado Springs
-    1. CS 3300 Software Engineering I
-    1. CS 2080 Programming with UNIX
-    1. CS 1150 Introduction to Computer Science 
-    1. CS 1120 Computational Thinking with Beginning Programming
-1. United States Air Force Academy
-    1. CS 110 Introduction to Computing and Cyber Operations
-
+### Teaching 
+1. Spring 2024
+   1. CS 483 Operating Systems (Classroom), USAFA
+   1. CS 110 Introduction to Computing and Cyber Operations - 2 Sections (Classroom), USAFA
+1. Fall 2023
+    1. CS 110 Introduction to Computing and Cyber Operations - 3 Sections (Classroom), USAFA
+    1. CS 1120 Computational Thinking with Beginning Programming (Classroom), UCCS
+1. Fall 2022
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+    1. CS 2080 Programming with UNIX (Classroom), UCCS
+1. Summer 2022
+    1. CIT 440A Advanced Programming II (Online), CCU
+1. Spring 2022
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+1. Fall 2021
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+1. Spring 2021
+    1. CS 3300 Software Engineering I (Classroom), UCCS
+    1. CIT 200A Programming Fundamentals (Online), CCU
+1. Fall 2020
+    1. CS 3300 Software Engineering I (Hybrid), UCCS
+    1. CIT 101A Introduction to Coding (Online), CCU
+1. Spring 2020 
+    1. CIT 200A Programming Fundamentals I (Online), CCU
+1. Fall 2019
+    1. CS 1150 Introduction to Computer Science (Classroom), UCCS
+ 
 ### Publications
 1. Thomas Hastings and Kristen R. Walcott, "Continuous Verification of Open Source Components in a World of Weak Links," 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Charlotte, NC, USA, 2022, pp. 201-207, doi: 10.1109/ISSREW55968.2022.00068. October 2021.
 1. Thomas Hastings and Kristen R. Walcott. “User Interaction Metrics for Hybrid Mobile Applications.” In the Proceedings of the 16th Int'l Conference on Software Engineering & Research and Practice (SERP ‘18). July 2018.

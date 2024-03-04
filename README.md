@@ -1,9 +1,9 @@
-## Mr. Thomas G. Hastings
+## Thomas G. Hastings
 https://www.thomashastings.com \
 thomas[at]hastings[dot]dev
 
 ### Education
-1. Doctor of Philosophy, Engineering, University of Colorado Colorado Springs, 2024 (ABD)
+1. Doctor of Philosophy, Engineering, University of Colorado Colorado Springs, 2024
 1. Master of Engineering, Software Engineering, University of Colorado Colorado Springs, 2018
 1. Bachelor of Science, Information Systems Management, Colorado Christian University, 2013
 1. Associate of Applied Science, Space Operations Technology, Community College of the Air Force, 2012

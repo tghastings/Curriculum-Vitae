@@ -1,4 +1,4 @@
-## Thomas G. Hastings
+## Thomas G. Hastings, Ph.D.
 https://www.thomashastings.com \
 thomas[at]hastings[dot]dev
 
@@ -18,8 +18,9 @@ thomas[at]hastings[dot]dev
 1. National Security Institute, George Mason University, Technologist Fellowship, 2020
 
 ### Other Professional Positions
-1. Senior Cloud Developer, Amazon Web Services, 2022 - Present
+1. Director of Infrastructure, Onebrief, 2024 - Present
 1. Master Sergeant, Space Systems, United States Air Force Reserve, 2008 - Present
+1. Senior Cloud Developer, Amazon Web Services, 2022 - 2024
 1. Site Reliability Architect & Cloud Platform Engineer, Parsons Corp, 2021 - 2022
 1. Manager Software Engineering, Rise8, 2021 - 2021
 1. Lead Member of Technical Staff, MITRE Corp, 2018 - 2021
@@ -32,6 +33,8 @@ thomas[at]hastings[dot]dev
 1. Web Developer, Freelance, 2004 - 2006
 
 ### Teaching 
+1. Summer 2024
+   1. CIT 440 Advanced Programming II (Online), CCU
 1. Spring 2024
    1. CS 483 Operating Systems (Classroom), USAFA
    1. CS 110 Introduction to Computing and Cyber Operations - 2 Sections (Classroom), USAFA

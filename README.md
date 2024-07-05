@@ -10,9 +10,9 @@ thomas[at]hastings[dot]dev
 
 ### Academic Positions
 1. United States Air Force Academy, Faculty Computer and Cyber Sciences, 2024 - Present
-1. Academy District 20, District's High School Robotics Coach, 2021 - Present
 1. Colorado Christian University, Affiliate Faculty, 2019 - Present
 1. University of Colorado Colorado Springs, Lecturer, 2018 - Present
+1. Academy District 20, District's High School Robotics Coach, 2021 - 2024
 1. United States Air Force Academy, Leadership Curriculum Developer, 2019 - 2024
 1. Academy School District 20, K-12 Guest Teacher, 2020 - 2021
 1. National Security Institute, George Mason University, Technologist Fellowship, 2020

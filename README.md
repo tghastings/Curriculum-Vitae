@@ -35,7 +35,7 @@ thomas[at]hastings[dot]dev
 ### Teaching 
 1. Fall 2024
    1. CS 4300 & CS 5300 Advanced Software Engineering (Classroom), UCCS
-   1. CSC-220A Discrete Mathematics Computer Science (Online), CCU
+   1. CSC 220A Discrete Mathematics Computer Science (Online), CCU
 1. Summer 2024
    1. CIT 440 Advanced Programming II (Online), CCU
 1. Spring 2024

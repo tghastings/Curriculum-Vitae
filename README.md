@@ -33,6 +33,9 @@ thomas[at]hastings[dot]dev
 1. Web Developer, Freelance, 2004 - 2006
 
 ### Teaching 
+1. Fall 2024
+   1. CS 4300 & CS 5300 Advanced Software Engineering (Classroom), UCCS
+   1. CSC-220A Discrete Mathematics Computer Science (Online), CCU
 1. Summer 2024
    1. CIT 440 Advanced Programming II (Online), CCU
 1. Spring 2024
@@ -66,6 +69,7 @@ thomas[at]hastings[dot]dev
 1. Thomas Hastings and Kristen R. Walcott. “User Interaction Metrics for Hybrid Mobile Applications.” In the Proceedings of the 16th Int'l Conference on Software Engineering & Research and Practice (SERP ‘18). July 2018.
 
 ### Conference Presentations 
+1. Thomas Hastings, "Patch and Breach: Traditional Security == Pwn3d", DevOps Days, Denver, CO, September 2024
 1. Thomas Hastings, "What's in Your Container?", JFrog SwampUP, Napa, CA, May 2018
 
 ### Textbook Contributions
@@ -85,6 +89,7 @@ thomas[at]hastings[dot]dev
 1. Youth Mental Health First Aid, National Council for Behavioral Health
 
 ### Career Accomplishments/Awards
+1. CCU Dean’s Gold Star List for Teaching Excellence, 2024
 1. CCU Dean’s Gold Star List for Teaching Excellence, 2020
 1. Area 51: Site 4, High Score Holder, Supernova, 2020
 1. Air & Space Meritorious Service Medal, 2019

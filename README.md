@@ -1,5 +1,5 @@
 ## Thomas G. Hastings, Ph.D.
-https://tom.hastings.dev
+https://tom.hastings.dev \
 tom[at]hastings[dot]dev
 
 ### Education

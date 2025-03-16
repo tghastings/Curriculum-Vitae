@@ -86,6 +86,7 @@ tom[at]hastings[dot]dev
 1. CS 3300 Software Engineering I, University of Colorado Colorado Springs, Spring 2021
 
 ### Certifications
+1. AWS Certified AI Practitioner, Amazon Web Services
 1. AWS Certified Solutions Architect - Associate, Amazon Web Services
 1. Certified Ethical Hacker, EC-Council
 1. Security+, CompTIA

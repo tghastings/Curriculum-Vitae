@@ -19,8 +19,8 @@ tom[at]hastings[dot]dev
 
 ### Other Professional Positions
 1. Senior Cloud Consultant, Amazon Web Services, 2025 - Present
-1. Director of Infrastructure, Onebrief, 2024 - 2025
 1. Master Sergeant, Space Systems, United States Air Force Reserve, 2008 - Present
+1. Director of Infrastructure, Onebrief, 2024 - 2025
 1. Senior Cloud Developer, Amazon Web Services, 2022 - 2024
 1. Site Reliability Architect & Cloud Platform Engineer, Parsons Corp, 2021 - 2022
 1. Manager Software Engineering, Rise8, 2021 - 2021

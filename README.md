@@ -34,6 +34,8 @@ tom[at]hastings[dot]dev
 1. Web Developer, Freelance, 2004 - 2006
 
 ### Teaching 
+1. Fall 2025
+   1. CS 4300 & CS 5300 Advanced Software Engineering - 2 Sections (Classroom), UCCS
 1. Spring 2025
    1. CS 4300 & CS 5300 Advanced Software Engineering (Classroom), UCCS
    1. CSC 220A Discrete Mathematics Computer Science (Online), CCU
